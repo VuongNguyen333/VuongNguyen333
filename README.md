@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vuongnguyen333&label=Profile%20views&color=0e75b6&style=flat" alt="vuongnguyen333" /> </p>
 
-- 🌱 I’m currently learning **Java Spring Boots, Back-end**
+- 🌱 I’m currently learning **Backend Web**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, JavaScript**
 
 - 📫 How to reach me **vuongnguyen332003@gmail.com**
 
