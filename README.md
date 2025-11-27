@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vuong Nguyen Minh</h1>
-<h3 align="center">A Beginner Backend Developer</h3>
+<h3 align="center">A Junior Fullstack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vuongnguyen333&label=Profile%20views&color=0e75b6&style=flat" alt="vuongnguyen333" /> </p>
 
